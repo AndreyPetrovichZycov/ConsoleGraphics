@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(99,22): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(99,12): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(100,29): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(100,22): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(100,17): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(100,12): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(101,29): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(101,22): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(101,17): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(101,12): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(129,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(130,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\Console3dRayCasting\main.cpp(107,8): warning C4101: numberOfAttrsWritten: неиспользованная локальная переменная
+  Console3dRayCasting.vcxproj -> C:\Users\zycov\Desktop\projects\С++_pr\Console3dRayCasting\x64\Debug\Console3dRayCasting.exe
