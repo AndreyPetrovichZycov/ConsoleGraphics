@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zycov\\Desktop\\projects\\\u0421\u002B\u002B_pr\\ConsoleGraphic\\ConsoleEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4B930CF-56CE-4A5B-9219-51DBA49EC1CF}|ConsoleEngine.vcxproj|C:\\Users\\zycov\\Desktop\\projects\\\u0421\u002B\u002B_pr\\ConsoleGraphic\\ConsoleEngine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4B930CF-56CE-4A5B-9219-51DBA49EC1CF}|ConsoleEngine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zycov\\Desktop\\projects\\\u0421\u002B\u002B_pr\\ConsoleGraphic\\ConsoleEngine\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\zycov\\Desktop\\projects\\\u0421\u002B\u002B_pr\\ConsoleGraphic\\ConsoleEngine\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T12:41:08.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
